@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PhoneSalesV1-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PhoneSalesV1-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
